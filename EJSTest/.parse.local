@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "EJSTest": {
+      "applicationId": "7vTA34JX08V7o4nq971UNwTDVSS4SPjC0esp20Gp"
+    },
+    "_default": {
+      "link": "EJSTest"
+    }
+  }
+}
